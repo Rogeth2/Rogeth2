@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Rogeth2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Rogeth2-Pong
+:atom: **_Professor de Física e Tecnologia do Ensino Médio_** :atom:
+- Cursando na [Alura](https://www.alura.com.br)
+- Evoluindo na linguagem de programação JavaScript
 
-<!---
-Rogeth2/Rogeth2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Email
+r_2silva1986@hotmail.com
+
+![](https://media1.tenor.com/m/PK0Xb8oB5VgAAAAC/yusuke-yyh.gif)
