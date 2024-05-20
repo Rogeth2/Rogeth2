@@ -1,4 +1,4 @@
-# Rogeth2-Pong
+# Rogeth2 - Rogério Silva
 :atom: **_Professor de Física e Tecnologia do Ensino Médio_** :atom:
 - Cursando na [Alura](https://www.alura.com.br)
 - Evoluindo na linguagem de programação JavaScript
